@@ -1,0 +1,32 @@
+Sender
+----------
+U1: Maxim MAX6817EUT+T
+U2: Maxim MAX6816EUS+T
+U3, U4, U5: Renesas ISL3295EIHZ-T
+U6: CUI Inc. VXO7803-500-M
+R1, R2, R3: 1K 1/8W SMD 0805
+R4: 68 ohm 1/8W SMD 0805
+C1, C2, C3, C4, C5: Wurth 885012207098 0.1uF MLCC SMD 0805
+C6: Taiyo Yuden UMK316BBJ106KL-T 10uF MLCC SMD 1206
+C7, C8: TDK C2012X5R1A226K125AB 22uF MLCC SMD 0805
+L1: Pulse Electronics PA4321.333NLT
+J1: Cui Devices TB006-508-06BE 6 pin terminal block
+J2: Amphenol RJCSE-5085-01 RJ45 SMD connector
+
+Receiver/Controller
+-----------------------
+U1, U2, U3: Renesas ISL3280EIHZ-T
+U4: ESP-03 1MB flash ESP8266 controller
+U6: CUI Inc. VXO7803-500-M
+R1, R2, R3: 100 ohm 1% 1/8W SMD 0805
+R4: 68 ohm 1/8W SMD 0805
+R5, R6, R7, R9: 10K 1/8W SMD 0805
+R8: 0 ohm solder joint
+R10: 0 ohm solder joint
+C1, C2, C3, C4: Wurth 885012207098 0.1uF MLCC SMD 0805
+C6: Taiyo Yuden UMK316BBJ106KL-T 10uF MLCC SMD 1206
+C7, C8: TDK C2012X5R1A226K125AB 22uF MLCC SMD 0805
+L1: Pulse Electronics PA4321.333NLT
+P1: 6 pins header 2.54mm
+J2: Amphenol RJCSE-5085-01 RJ45 SMD connector
+
